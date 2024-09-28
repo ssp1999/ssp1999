@@ -2,7 +2,7 @@
 
 Hi there! I’m a passionate developer who loves turning ideas into amazing digital experiences. With solid experience in Vue.js, React, Laravel, and TypeScript, I’m always eager to tackle new challenges and enhance my skills.
 
-![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Cats GIF](https://media.tenor.com/images/456f4d94bb75d36008b8881555f23cb8/tenor.gif)
 
 ## ✨ What Defines Me:
 
