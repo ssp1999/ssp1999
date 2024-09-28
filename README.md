@@ -3,7 +3,7 @@
 Hi there! I’m a passionate developer who loves turning ideas into amazing digital experiences. With solid experience in Vue.js, React, Laravel, and TypeScript, I’m always eager to tackle new challenges and enhance my skills.
 
 <div style="text-align: center;">
-  <img src="https://media.tenor.com/images/456f4d94bb75d36008b8881555f23cb8/tenor.gif" alt="Cats GIF" width="400">
+  ![Cats GIF](https://media.tenor.com/images/456f4d94bb75d36008b8881555f23cb8/tenor.gif)
 </div>
 
 ## ✨ What Defines Me:
