@@ -2,10 +2,9 @@
 
 Hi there! I’m a passionate developer who loves turning ideas into amazing digital experiences. With solid experience in Vue.js, React, Laravel, and TypeScript, I’m always eager to tackle new challenges and enhance my skills.
 
-<div class="tenor-gif-embed" data-postid="26460331" data-share-method="host" data-aspect-ratio="0.75" data-width="100%">
-  <a href="https://tenor.com/view/cats-gif-26460331">Cats GIF</a> from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div style="text-align: center;">
+  <img src="https://media.tenor.com/images/456f4d94bb75d36008b8881555f23cb8/tenor.gif" alt="Cats GIF" width="400">
+</div>
 
 ## ✨ What Defines Me:
 
@@ -27,5 +26,11 @@ Hi there! I’m a passionate developer who loves turning ideas into amazing digi
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakyraportes)  
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakyra.portes@gmail.com)
+<div style="display: flex; justify-content: center;">
+  <a href="https://www.linkedin.com/in/shakyraportes">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:shakyra.portes@gmail.com" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
