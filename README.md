@@ -15,9 +15,9 @@ I thrive on developing creative solutions to real-world challenges and collabora
 
 ## 🌐 Some projects:
 
-<a href="https://ssp1999.github.io/landing-page/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ssp1999&repo=landing-page" alt="ReadMe Card"/>
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssp1999&repo=landing-page&bg_color=0d1117FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_description=false)](https://ssp1999.github.io/landing-page/)
+
+<sub>To open the link in a new tab, right-click and select "Open link in new tab".</sub>
 
 ## 📫 Get in Touch
 
