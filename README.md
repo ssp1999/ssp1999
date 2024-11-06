@@ -15,13 +15,7 @@ I thrive on developing creative solutions to real-world challenges and collabora
 
 ## 🌐 Some projects:
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px; text-align: center; margin: 10px auto;">
-  <a href="https://seu-usuario.github.io/nome-do-seu-repositorio/">
-    <img src="https://drive.google.com/uc?export=view&id=1zO1njpjWlnhSrwbjlV5xAHDYYz8xvd_B" alt="Meu App" width="280" height="150" style="border-radius: 8px;"/>
-    <h3>Meu App</h3>
-  </a>
-  <p>Uma breve descrição do aplicativo vai aqui.</p>
-</div>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssp1999&repo=landing-page)](https://ssp1999.github.io/landing-page/)
 
 ## 📫 Get in Touch
 
