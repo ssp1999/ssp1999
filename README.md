@@ -1,4 +1,4 @@
-# 🖥️ Software Developer | Frontend & Backend
+# 🖥️ Software Engineer
 
 I'm a developer who’s all about turning cool ideas into awesome digital stuff.
 
@@ -11,6 +11,12 @@ I’m passionate about creating responsive and engaging applications that users 
 ## 💖 My Passions:
 
 I thrive on developing creative solutions to real-world challenges and collaborating on projects that spark innovation!
+
+<p align="center">
+  <a href="https://seu-usuario.github.io/nome-do-seu-repositorio/">
+    <img src="https://drive.google.com/uc?export=view&id=1zO1njpjWlnhSrwbjlV5xAHDYYz8xvd_B" alt="Meu App" width="300" height="180"/>
+  </a>
+</p>
 
 <div>
   <a href="https://github.com/ssp1999">
