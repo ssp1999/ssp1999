@@ -1,8 +1,9 @@
 ## 🖥️ Software Engineer
 
-I'm a developer who’s all about turning cool ideas into awesome digital stuff.
-
-![Cats GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3NW11M2thOTV1a2F3M3FpZnE2NWQ2ZHJiODRoMWJ1YWtwc2F3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.webp)
+<div style="display: flex; align-items: center;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3NW11M2thOTV1a2F3M3FpZnE2NWQ2ZHJiODRoMWJ1YWtwc2F3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.webp" width="120" style="margin-right: 20px;"/>
+  <p>I'm a developer who’s all about turning cool ideas into awesome digital stuff.</p>
+</div>
 
 ## ✨ What Defines Me:
 
