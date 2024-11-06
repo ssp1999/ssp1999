@@ -12,11 +12,13 @@ I’m passionate about creating responsive and engaging applications that users 
 
 I thrive on developing creative solutions to real-world challenges and collaborating on projects that spark innovation!
 
-<p align="center">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px; text-align: center; margin: 10px auto;">
   <a href="https://seu-usuario.github.io/nome-do-seu-repositorio/">
-    <img src="https://drive.google.com/uc?export=view&id=1zO1njpjWlnhSrwbjlV5xAHDYYz8xvd_B" alt="Meu App" width="300" height="180"/>
+    <img src="https://drive.google.com/uc?export=view&id=1zO1njpjWlnhSrwbjlV5xAHDYYz8xvd_B" alt="Meu App" width="280" height="150" style="border-radius: 8px;"/>
+    <h3>Meu App</h3>
   </a>
-</p>
+  <p>Uma breve descrição do aplicativo vai aqui.</p>
+</div>
 
 <div>
   <a href="https://github.com/ssp1999">
