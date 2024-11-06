@@ -1,4 +1,4 @@
-# 🖥️ Software Engineer
+## 🖥️ Software Engineer
 
 I'm a developer who’s all about turning cool ideas into awesome digital stuff.
 
@@ -12,19 +12,14 @@ I’m passionate about creating responsive and engaging applications that users 
 
 I thrive on developing creative solutions to real-world challenges and collaborating on projects that spark innovation!
 
+## 🌐 Some projects:
+
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px; text-align: center; margin: 10px auto;">
   <a href="https://seu-usuario.github.io/nome-do-seu-repositorio/">
     <img src="https://drive.google.com/uc?export=view&id=1zO1njpjWlnhSrwbjlV5xAHDYYz8xvd_B" alt="Meu App" width="280" height="150" style="border-radius: 8px;"/>
     <h3>Meu App</h3>
   </a>
   <p>Uma breve descrição do aplicativo vai aqui.</p>
-</div>
-
-<div>
-  <a href="https://github.com/ssp1999">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssp1999&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ssp1999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
 </div>
 
 ## 📫 Get in Touch
