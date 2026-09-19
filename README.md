@@ -24,6 +24,7 @@ A responsive landing page built with HTML, CSS and JavaScript.
 
 A music player built with HTML, CSS and JavaScript.
 
+<sub>To open the link in a new tab, right-click and select "Open link in new tab".</sub>
 
 ## 📫 Get in Touch
 
