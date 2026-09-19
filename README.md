@@ -14,23 +14,15 @@ I thrive on developing creative solutions to real-world challenges and collabora
 
 ## 🌐 Some projects:
 
-### 🌐 Landing Page
+### [💻 Landing Page](https://ssp1999.github.io/landing-page/)
 
 A responsive landing page built with HTML, CSS and JavaScript.
 
-[View project →](https://ssp1999.github.io/landing-page/)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssp1999&repo=landing-page&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://ssp1999.github.io/landing-page/)
-
 ---
 
-### 🎵 Music Player
+### [🎵 Music Player](https://ssp1999.github.io/music/)
 
 A music player built with HTML, CSS and JavaScript.
-
-[View project →](https://ssp1999.github.io/music/)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssp1999&repo=music&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://ssp1999.github.io/music/)
 
 
 ## 📫 Get in Touch
