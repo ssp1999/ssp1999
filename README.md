@@ -1,7 +1,6 @@
 ## 🖥️ Software Engineer
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3NW11M2thOTV1a2F3M3FpZnE2NWQ2ZHJiODRoMWJ1YWtwc2F3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.webp" width="120"/>
   <p>I'm a developer who’s all about turning cool ideas into awesome digital stuff.</p>
 </div>
 
@@ -15,10 +14,24 @@ I thrive on developing creative solutions to real-world challenges and collabora
 
 ## 🌐 Some projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssp1999&repo=landing-page&bg_color=0d1117FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://ssp1999.github.io/landing-page/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssp1999&repo=music&bg_color=0d1117FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://ssp1999.github.io/music/)
+### 🌐 Landing Page
 
-<sub>To open the link in a new tab, right-click and select "Open link in new tab".</sub>
+A responsive landing page built with HTML, CSS and JavaScript.
+
+[View project →](https://ssp1999.github.io/landing-page/)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssp1999&repo=landing-page&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://ssp1999.github.io/landing-page/)
+
+---
+
+### 🎵 Music Player
+
+A music player built with HTML, CSS and JavaScript.
+
+[View project →](https://ssp1999.github.io/music/)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssp1999&repo=music&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://ssp1999.github.io/music/)
+
 
 ## 📫 Get in Touch
 
